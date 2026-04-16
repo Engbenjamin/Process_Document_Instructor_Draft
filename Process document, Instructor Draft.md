@@ -4,17 +4,13 @@ Eng Benjamin, Process Document Instructor Draft
 # Electronics Engineering Role Process Document
 
 ## Table of Contents
-  -[Purpose](#Purpose)
-  
-  -[Choosing the Proper Elective Classes for Electronics Engineering](#Choosing-the-Proper-Elective-Classes-for-Electronics-Engineering)
-    -[Embedded Systems Classes](#Embedded-Systems)
-    -[Electrical Sensors Classes](#Electrical-Sensors)
-  
-  -[Building Your Electronics Engineering Project Portfolio](#Building-Your-Electronics-Engineering-Project-Portfolio)
-  
-  -[Keep up with Industry Trends, Standards, Techniques, and Skills](#Keep-up-with-Industry-Trends,-Standards,-Techniques,-and-Skills)
-
-  -[Networking to Aid in Future Job Search](#Networking-to-Aid-in-Future-Job-Search)
+  - [Purpose](#Purpose)
+  - [Choosing the Proper Elective Classes for Electronics Engineering](#Choosing-the-Proper-Elective-Classes-for-Electronics-Engineering)
+    - [Embedded Systems Classes](#Embedded-Systems)
+    - [Electrical Sensors Classes](#Electrical-Sensors)
+  - [Building Your Electronics Engineering Project Portfolio](#Building-Your-Electronics-Engineering-Project-Portfolio)
+  - [Keep up with Industry Trends, Standards, Techniques, and Skills](#Keep-up-with-Industry-Trends,-Standards,-Techniques,-and-Skills)
+  - [Networking to Aid in Future Job Search](#Networking-to-Aid-in-Future-Job-Search)
 
 
 ---
@@ -26,14 +22,25 @@ As an Electrical Engineering student interested in becoming an Electronics Engin
 ## Choosing the Proper Elective Classes for Electronics Engineering
 ### Embedded Systems
 
-## Electrical Sensors
+### Electrical Sensors
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
-
+### Software Languages Python, C++, and Matlab
+### Practice Programming with FPGA boards
+### Document Debugging Processes
+### Upload Projects and Code to GitHub To Showcase Projects
 
 ---
 ## Keep up with Industry Trends, Standards, Techniques, and Skills
+### Subscribe to Club Newsletters
+### Search Job Boards For Electronics Engineering Roles
 
 ---
 ## Networking to Aid in Future Job Search
+### Join School A School Electronics Club
+### Connect With Classmates and Professors on LinkedIn
+### Periodically Search and Update LinkedIn, Handshake
+### Reach Out to Recruiters
+### Conduct Informational Interviews
+
