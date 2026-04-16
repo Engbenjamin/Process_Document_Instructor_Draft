@@ -7,6 +7,8 @@ Eng Benjamin, Process Document Instructor Draft
   -[Purpose](#Purpose)
   
   -[Choosing the Proper Elective Classes for Electronics Engineering](#Choosing-the-Proper-Elective-Classes-for-Electronics-Engineering)
+    -[Embedded Systems Classes](#Embedded-Systems)
+    -[Electrical Sensors Classes](#Electrical-Sensors)
   
   -[Building Your Electronics Engineering Project Portfolio](#Building-Your-Electronics-Engineering-Project-Portfolio)
   
@@ -22,7 +24,9 @@ As an Electrical Engineering student interested in becoming an Electronics Engin
 
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
+### Embedded Systems
 
+## Electrical Sensors
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
