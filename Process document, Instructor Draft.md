@@ -2,7 +2,7 @@
 Eng Benjamin, Process Document Instructor Draft
 
 ## Table of Contents
--[Choosing the Proper Elective Classes for Electronics Engineering](#Choosing the Proper Elective Classes for Electronics Engineering)
+-[Choosing the Proper Elective Classes for Electronics Engineering](#Choosing-the-Proper-Elective-Classes-for-Electronics-Engineering)
 
 
 ## Choosing the Proper Elective Classes for Electronics Engineering
