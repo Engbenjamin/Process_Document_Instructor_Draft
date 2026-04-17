@@ -92,7 +92,7 @@ Beyond providing insider industry knowledge of the roles and responsibilities of
 
 Conduct informational interviews with Electronics Engineers to network with industry insiders.
 
-### Core Stack
+### The Career Readiness Framework
 <img width="1920" height="1080" alt="Student to Engineer Pipeline" src="https://github.com/user-attachments/assets/2f3159ff-dbb1-4893-bf53-c056f36be929" />
 
 
