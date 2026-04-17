@@ -9,9 +9,17 @@ Eng Benjamin, Process Document Instructor Draft
     - [Embedded Systems Classes](#Embedded-Systems)
     - [Electrical Sensors Classes](#Electrical-Sensors)
   - [Building Your Electronics Engineering Project Portfolio](#Building-Your-Electronics-Engineering-Project-Portfolio)
+    - [Core Software Tools in Electronics Engineering](#Core-Software-Tools)
+    - [FPGA Design Experience](#FPGA-Digital-Design)
+    - [Documentation of Debugging Processes](#Documenting-Debugging-Processes)
+    - [Uploading Projects to GitHub](#Upload-Projects-To-GitHub)
   - [Keep up with Industry Trends, Standards, Techniques, and Skills](#Keep-up-with-Industry-Trends,-Standards,-Techniques,-and-Skills)
+    - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
+    - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
   - [Networking to Aid in Future Job Search](#Networking-to-Aid-in-Future-Job-Search)
-
+    - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
+    - [Reach Out To Recruiters](#Reach-Out-to-Recruiters)
+    - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
 
 ---
 
@@ -32,7 +40,7 @@ Take EE elective courses in electrical sensors include [examples]
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
-### Software Python, C++, and Matlab
+### Core Software Tools
 Three core software used in Electronics Engineering are Python, C++, and MATLAB. These serve different but important purposes:
 - Python is a generic tool of modern electronics labs and is widely used to automate testing of electronic systems and analyze data. 
 - C++ is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
@@ -40,7 +48,7 @@ Three core software used in Electronics Engineering are Python, C++, and MATLAB.
 
 Your portfolio should document proficiency in some or all of these tools.
 
-### Practice Programming with FPGA boards
+### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGA's, students learn to manage constraints such as gate timing, resource control, and hardware.
 
 Obtain a educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
@@ -50,7 +58,7 @@ Documenting your debugging process shows you understand the project on a deeper 
 
 Document the entirety of the process-what worked and what didn't-to impress future employers.
 
-### Upload Projects and Code to GitHub To Showcase Projects
+### Upload Projects To GitHub
 Github can serve as a extension of an engineering resume beyond what could be described on paper. You can capture images of prototypes, attached documentation of electrical testing, and demonstrate your ability in the engineering process from an paper-napkin concept to a working project. 
 
 Post projects to GitHub and provide links to them on resumes, LinkedIn, or Handshake.
@@ -69,7 +77,7 @@ Subscribe to job sites under terms like 'Electronics Engineer' or 'Electrical En
 
 ---
 ## Networking to Aid in Future Job Search
-### Connect With Classmates and Professors on LinkedIn, Handshake
+### Connect With Classmates and Professors Online
 Connecting with classmates and professors directly connects you with like-minded individuals in your field of study. These connections could provide leads or references for your first role after graduation. 
 
 Introduce yourself to students and professors in your classes, connect with them on LinkedIn and Handshake. 
