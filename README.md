@@ -21,10 +21,10 @@ As an Electrical Engineering student interested in becoming an Electronics Engin
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
 ### Embedded Systems
-Embedded systems are ubitquitious with various domains of Electronics Engineering from home electronics, aerospace, medical equipment and more. Taking embedded systems courses will prepare you with the knowledge of software, firmware, and hardware elements and how theses work together within a larger mechanical or electronic system. UWB courses in embedded systems include [examples].
+Embedded systems are ubitquitious with various domains of Electronics Engineering from home electronics, aerospace, medical equipment and more. Taking embedded systems courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within a larger mechanical or electronic system. UWB EE elective courses in embedded systems include [examples].
 
 ### Electrical Sensors
-A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. UWB courses in electrical sensors include [examples]
+A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. UWB EE elective courses in electrical sensors include [examples]
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
@@ -45,14 +45,15 @@ A student wanting to go into electronics engineering should document projects sh
 Documenting what didn't work in your projects and how you debugged can be a very valuable part of your portfolio. Debugging can show how a student understands the project on a deeper level beyond just an internet search of a project and can also demonstrate root cause analysis. Therefore, document the entirety of the process-what worked and what didn't-to impress future employers.
 
 ### Upload Projects and Code to GitHub To Showcase Projects
-GitHub can be a valuable place to showcase your projects and code. It provides a valuable supplement to your electronics engineering resume, showcasing your interests and knowledge beyond what could be shown on a resume. Therefore post to GitHub.
+GitHub can be a valuable place to showcase your projects and code. It provides a valuable supplement to your electronics engineering resume, showcasing your interests and knowledge beyond what could be shown on a resume.
 
 ---
 ## Keep up with Industry Trends, Standards, Techniques, and Skills
 ### Subscribe to Club Newsletters
-
+Clubs like the IEEE have online newsletters. Newsletters cover Electronics Engineering topics such as the latest university research, product spotlights, drones, robotics, sensors, and many more. Newsletters also include helpful information on jobs, education, management, and the engineering workplace. Subscribe to the IEEE newsletter on the IEEE website and have them delivered to your email.
 
 ### Search Job Boards For Electronics Engineering Roles
+
 
 ---
 ## Networking to Aid in Future Job Search
