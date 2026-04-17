@@ -21,8 +21,10 @@ As an Electrical Engineering student interested in becoming an Electronics Engin
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
 ### Embedded Systems
+Embedded systems are ubitquitious with various domains of Electronics Engineering from home electronics to aerospace, medical equipment and beyond. Taking embedded systems courses will prepare you with the knowledge of software, firmware, and hardware elements and how they work synergistically within larger mechanical or electronic system. UWB courses in embedded systems include [examples].
 
 ### Electrical Sensors
+Electronics include input outputs which will need to include sensors. 
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
