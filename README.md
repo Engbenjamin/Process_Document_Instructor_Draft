@@ -30,14 +30,17 @@ A core part of any electronic system are the inputs. Courses covering electrical
 ## Building Your Electronics Engineering Project Portfolio
 Why then rule!!!!!
 
-### Software Languages Python, C++, and Matlab
-C++ is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across various fields. C++ will teach you to control the hardware and allocate memory.
+### Software Python, C++, and Matlab
+Three core software used in Electronics Engineering are Python, C++, and MATLAB. These serve different but important purposes:
+- Python can be used to automate testing of electronic systems. It allows for rapid prototyping and can also be used to analyze data.
+- C++ is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across various fields. C++ will teach you to control the hardware and allocate memory.
+- MATLAB is the industry leader in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design. 
 
-MATLAB is the industry leader in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design. MATLAB is widely used in industry and is an important part of any Electronics Engineering portfolio.
-
-
+A student wanting to go into electronics engineering should document projects showcasing proficiency in some or all of these tools.
 
 ### Practice Programming with FPGA boards
+
+
 ### Document Debugging Processes
 ### Upload Projects and Code to GitHub To Showcase Projects
 
