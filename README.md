@@ -13,7 +13,7 @@ Eng Benjamin, Process Document Instructor Draft
     - [FPGA Design Experience](#FPGA-Digital-Design)
     - [Documentation of Debugging Processes](#Documenting-Debugging-Processes)
     - [Uploading Projects to GitHub](#Upload-Projects-To-GitHub)
-  - [Keep up with Industry Trends, Standards, Techniques, and Skills](#Keep-Up-With-Industry-Trends,-Standards,-Techniques,-and-Skills)
+  - [Keep Up With Industry Trends, Standards, Techniques, and Skills](#Keep-Up-With-Industry-Trends,-Standards,-Techniques,-and-Skills)
     - [Subscribe to Club Newsletters](#Subscribe-to-Club-Newsletters)
     - [Search Job Boards for Electronics Engineering Roles](#Search-Job-Boards-for-Electronics-Engineering-Roles)
   - [Networking to Aid in Future Job Search](#Networking-to-Aid-in-Future-Job-Search)
