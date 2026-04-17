@@ -45,7 +45,7 @@ A student wanting to go into electronics engineering should document projects sh
 Documenting what didn't work in your projects and how you debugged can be a very valuable part of your portfolio. Debugging can show how a student understands the project on a deeper level beyond just an internet search of a project and can also demonstrate root cause analysis. Therefore, document the entirety of the process-what worked and what didn't-to impress future employers.
 
 ### Upload Projects and Code to GitHub To Showcase Projects
-GitHub can be a valuable place to showcase your projects and code. It provides a valuable supplement to your electronics engineering resume, showcasing your interests and knowledge beyond what could be described in a couple lines on a resume.
+GitHub can be a valuable place to showcase your projects and code. It provides a valuable supplement to your electronics engineering resume, showcasing your interests and knowledge beyond what could be described in a couple sentences on a resume.
 
 ---
 ## Keep up with Industry Trends, Standards, Techniques, and Skills
