@@ -63,7 +63,7 @@ Clubs like the IEEE have online newsletters that cover topics such as the latest
 Subscribe to the IEEE newsletter on the website and have them delivered to your email.
 
 ### Search Job Boards For Electronics Engineering Roles
-Job boards are a invaluable look at the current job market. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
+Job boards are a invaluable look at the current job market for Electronics Engineers. Job descriptions provide details on high-demand skills, knowledge, software, and tools. One can tailor their educational experiences towards their future role and industry. 
 
 Subscribe to job sites under terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
 
