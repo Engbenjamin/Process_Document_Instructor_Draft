@@ -93,4 +93,6 @@ Beyond providing insider industry knowledge of the roles and responsibilities of
 Conduct informational interviews with Electronics Engineers to network with industry insiders.
 
 ### Core Stack
-![Core Pillars, Student to Engineer Pipeline](https://www.canva.com/design/DAHHJlLkc2I/2i6d0aUy5l83igd4FW_orw/view)
+<img width="1920" height="1080" alt="Student to Engineer Pipeline" src="https://github.com/user-attachments/assets/2f3159ff-dbb1-4893-bf53-c056f36be929" />
+
+
