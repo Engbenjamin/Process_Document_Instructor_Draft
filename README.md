@@ -91,3 +91,6 @@ Follow recruiters on LinkedIn, Handshake, or connect with them at job and career
 Beyond providing insider industry knowledge of the roles and responsibilities of being an Electronics Engineer, informational interviews may be another avenue upon which you can connect with a future company. Like recruiters, they may know of job postings before they become public and may move your resume to their hiring manager. 
 
 Conduct informational interviews with Electronics Engineers to network with industry insiders.
+
+### Core Stack
+![Core Pillars, Student to Engineer Pipeline](https://www.canva.com/design/DAHHJlLkc2I/2i6d0aUy5l83igd4FW_orw/view)
