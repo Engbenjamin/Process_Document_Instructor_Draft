@@ -46,7 +46,7 @@ Practicing on FPGA platforms is essential for students pursuing digital design. 
 Obtain a educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
 
 ### Document Debugging Processes
-Documenting what didn't work in your projects can be a very valuable part of your portfolio. Debugging shows you understand the project on a deeper level beyond an internet search and can also demonstrate root cause analysis. 
+Documenting your debugging process shows you understand the project on a deeper level beyond an internet search of the project. It can also demonstrate your ability to conduct root cause analysis. 
 
 Document the entirety of the process-what worked and what didn't-to impress future employers.
 
