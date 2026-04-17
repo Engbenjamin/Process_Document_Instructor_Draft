@@ -16,7 +16,7 @@ Eng Benjamin, Process Document Instructor Draft
 ---
 
 ## Purpose
-As an Electrical Engineering student interested in becoming an Electronics Engineer, following the best practices presented in this document while you are still in school will prepare you to land your first role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
+As a student interested in a job as an Electronics Engineer, you may have questions about best practices while you are still in school to prepare you for landing that all-important first role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
 
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
@@ -45,7 +45,7 @@ A student wanting to go into electronics engineering should document projects sh
 Documenting what didn't work in your projects and how you debugged can be a very valuable part of your portfolio. Debugging can show how a student understands the project on a deeper level beyond just an internet search of a project and can also demonstrate root cause analysis. Therefore, document the entirety of the process-what worked and what didn't-to impress future employers.
 
 ### Upload Projects and Code to GitHub To Showcase Projects
-GitHub can be a valuable place to showcase your projects and code. It provides a valuable supplement to your electronics engineering resume, showcasing your interests and knowledge beyond what could be described in a couple sentences on a resume.
+For an aspiring Electronics Engineer, Github can serve as a extension of a professional engineering resume beyond what could be described on a piece of paper. A Github profile can demonstrate your proficiency in software, firmware, and hardware elements of Electronics Engineering. You can capture images of prototypes, attached documentation of electrical testing, and demonstrate your ability in the engineering process from an paper-napkin concept to a working project. Post projects to GitHub and provide links to them on resumes and LinkedIn.
 
 ---
 ## Keep up with Industry Trends, Standards, Techniques, and Skills
@@ -53,13 +53,18 @@ GitHub can be a valuable place to showcase your projects and code. It provides a
 Clubs like the IEEE have online newsletters. Newsletters cover Electronics Engineering topics such as the latest university research, product spotlights, drones, robotics, sensors, and many more. Newsletters also include helpful information on jobs, education, management, and the engineering workplace. Subscribe to the IEEE newsletter on the IEEE website and have them delivered to your email.
 
 ### Search Job Boards For Electronics Engineering Roles
-
+Job boards are a invaluable resource on the current market for Electronics Engineers. Job descriptions provide information on high-demand electronics engineering skills, knowledge, software, and tools. One can then tailor current learning towards what their future role as an Electronics Engineer will be. Subscribe to job posting sites under the terms like 'Electronics Engineer' or 'Electrical Engineer' or 'Hardware Engineer'.
 
 ---
 ## Networking to Aid in Future Job Search
-### Join School A School Electronics Club
 ### Connect With Classmates and Professors on LinkedIn
-### Periodically Search and Update LinkedIn, Handshake
-### Reach Out to Recruiters
-### Conduct Informational Interviews
+Connecting with classmates and professors directly connects you with like-minded professionals in your field of study. These connections could later be used to provide career leads or to provide references for your first role. Introduce yourself to students and professors in your classes, connect with them on LinkedIn. 
 
+### Periodically Search and Update LinkedIn, Handshake
+
+
+### Reach Out to Recruiters
+Recruiters have an inside look at the companies they work for. They may be the first to know of job postings before they even become public. They may also assist with directly moving your resume to hiring managers for these roles. Follow recruiters on LinkedIn or connect with them at job and career fairs.
+
+### Conduct Informational Interviews
+Beyond providing insider knowledge of the roles and responsibilities that a brief job description may not cover, informational interviews may be another avenue upon which you can connect with a future company. Like recruiters, they may know of job postings before they become public and may be able to move your resume directly to the hiring manager. Conduct informational interviews to network with insiders.
