@@ -24,7 +24,7 @@ Eng Benjamin, Process Document Instructor Draft
 ---
 
 ## Purpose
-As a student interested in a job as an Electronics Engineer, you may have questions about best practices to prepare for landing that all-important first role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
+If you are interested becoming an Electronics Engineer, you may have questions about best practices to prepare for landing that all-important first role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
 
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
