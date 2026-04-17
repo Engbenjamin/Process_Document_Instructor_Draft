@@ -16,7 +16,7 @@ Eng Benjamin, Process Document Instructor Draft
 ---
 
 ## Purpose
-As an Electrical Engineering student interested in becoming an Electronics Engineer, following these best practices presented in this document while you are still in school will prepare you help you land your first professional role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
+As an Electrical Engineering student interested in becoming an Electronics Engineer, following the best practices presented in this document while you are still in school will prepare you to land your first role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
 
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
@@ -24,7 +24,7 @@ As an Electrical Engineering student interested in becoming an Electronics Engin
 Embedded systems are ubitquitious with various domains of Electronics Engineering from home electronics, aerospace, medical equipment and more. Taking embedded systems courses will prepare you with the knowledge of software, firmware, and hardware elements and how theses work together within a larger mechanical or electronic system. UWB courses in embedded systems include [examples].
 
 ### Electrical Sensors
-A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronics devices. UWB courses in electrical sensors include [examples]
+A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. UWB courses in electrical sensors include [examples]
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
@@ -32,7 +32,7 @@ Why then rule!!!!!
 
 ### Software Python, C++, and Matlab
 Three core software used in Electronics Engineering are Python, C++, and MATLAB. These serve different but important purposes:
-- Python can be used to automate testing of electronic systems. It allows for rapid prototyping and can also be used to analyze data.
+- Python is a generic tool of modern electronics labs and is widely used to automate testing of electronic systems and analyze data. 
 - C++ is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across various fields. C++ will teach you to control the hardware and allocate memory.
 - MATLAB is the industry leader in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design. 
 
@@ -42,11 +42,16 @@ A student wanting to go into electronics engineering should document projects sh
 
 
 ### Document Debugging Processes
+Documenting what didn't work in your projects and how you debugged can be a very valuable part of your portfolio. Debugging can show how a student understands the project on a deeper level beyond just an internet search of a project and can also demonstrate root cause analysis. Therefore, document the entirety of the process-what worked and what didn't-to impress future employers.
+
 ### Upload Projects and Code to GitHub To Showcase Projects
+GitHub can be a valuable place to showcase your projects and code. It provides a valuable supplement to your electronics engineering resume, showcasing your interests and knowledge beyond what could be shown on a resume. Therefore post to GitHub.
 
 ---
 ## Keep up with Industry Trends, Standards, Techniques, and Skills
 ### Subscribe to Club Newsletters
+
+
 ### Search Job Boards For Electronics Engineering Roles
 
 ---
