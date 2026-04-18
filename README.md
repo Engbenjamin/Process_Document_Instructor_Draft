@@ -25,12 +25,12 @@ Eng Benjamin, Process Document Instructor Draft
 ---
 
 ## Purpose
-If you are interested becoming an Electronics Engineer, you may have questions about best practices to prepare for landing that all-important first role after graduation. Core topics covered in this process document include choosing the right elective classes tailored to Electronics Engineering, building your professional porfolio to impress future employers, keeping up with industry topics and skills in the field, and networking advice to aid in your future job search.
+If you are interested becoming an Electronics Engineer, you may have questions about how best to prepare for landing your first job after graduation. Core topics covered in this process document include choosing the elective classes tailored to Electronics Engineering, building your professional portfolio for future employers, keeping up with industry topics and skills in the field, and networking advice.
 
 ---
 ## Choosing the Proper Elective Classes for Electronics Engineering
 ### Embedded Systems
-Embedded systems are ubitquitious with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
+Embedded systems are ubiquitous with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
 
 Take EE elective courses in embedded systems such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
 
@@ -52,7 +52,7 @@ Your portfolio should document proficiency in some or all of these skills.[^1]
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
-Obtain a educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
+Obtain an educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
 
 ### Document Debugging Processes
 Documenting your debugging process shows you understand the project on a deeper level beyond an internet search of the project. It can also demonstrate your ability to conduct root cause analysis. 
@@ -60,7 +60,7 @@ Documenting your debugging process shows you understand the project on a deeper 
 Document the entirety of the process-what worked and what didn't-to impress future employers.
 
 ### Upload Projects To GitHub
-Github can serve as a extension of an engineering resume beyond what could be described on paper. You can capture images of prototypes, attached documentation of electrical testing, and demonstrate your ability in the engineering process from an paper-napkin concept to a working project. 
+Github can serve as an extension of an engineering resume beyond what could be described on paper. You can capture images of prototypes, attached documentation of electrical testing, and demonstrate your ability in the engineering process from an paper-napkin concept to a working project. 
 
 Post projects to GitHub and provide links to them on resumes, LinkedIn, or Handshake.
 
