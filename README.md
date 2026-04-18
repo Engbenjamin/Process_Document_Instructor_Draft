@@ -46,7 +46,7 @@ Three core software used in Electronics Engineering are Python, C++, and MATLAB.
 - C++ is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
 - MATLAB is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design. 
 
-Your portfolio should document proficiency in some or all of these tools.
+Your portfolio should document proficiency in some or all of these tools. [^1]
 
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
@@ -93,7 +93,9 @@ Beyond providing insider industry knowledge of the roles and responsibilities of
 Conduct informational interviews with Electronics Engineers to network with industry insiders.
 
 ---
-### The Career Readiness Framework
+## The Career Readiness Framework
 <img width="1920" height="1080" alt="Student to Engineer Pipeline" src="https://github.com/user-attachments/assets/2f3159ff-dbb1-4893-bf53-c056f36be929" />
 
-
+---
+## References
+[^1] "O Net Online," 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2072.00. [Accessed 15th April 2026].
