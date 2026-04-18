@@ -31,12 +31,12 @@ If you are interested becoming an Electronics Engineer, you may have questions a
 ### Embedded Systems
 Embedded systems are ubitquitious with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
 
-Take EE elective courses in embedded systems include [examples].
+Take EE elective courses in embedded systems such as EE 333 Analog Embedded Systems, CSE 474 Introduction to Embedded Systems, or CSE 475 Embedded Systems Capstone.
 
 ### Electrical Sensors
 A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. 
 
-Take EE elective courses in electrical sensors include [examples]
+Take the EE elective course BEE 484 Sensors and Sensor Systems
 
 ---
 ## Building Your Electronics Engineering Project Portfolio
@@ -49,7 +49,7 @@ Three core software used in Electronics Engineering are Python, C++, and MATLAB.
 Your portfolio should document proficiency in some or all of these tools.
 
 ### FPGA Digital Design
-Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGA's, students learn to manage constraints such as gate timing, resource control, and hardware.
+Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
 
 Obtain a educational FPGA board such as a Terasic FPGA Development Board or a Digilent Arty A7 FPGA Development Board, then practice implementing them in personal projects.
 
@@ -92,6 +92,7 @@ Beyond providing insider industry knowledge of the roles and responsibilities of
 
 Conduct informational interviews with Electronics Engineers to network with industry insiders.
 
+---
 ### The Career Readiness Framework
 <img width="1920" height="1080" alt="Student to Engineer Pipeline" src="https://github.com/user-attachments/assets/2f3159ff-dbb1-4893-bf53-c056f36be929" />
 
