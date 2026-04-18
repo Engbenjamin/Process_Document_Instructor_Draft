@@ -20,7 +20,8 @@ Eng Benjamin, Process Document Instructor Draft
     - [Connect With Classmates and Professors Online](#Connect-With-Classmates-and-Professors-Online)
     - [Reach Out To Recruiters](#Reach-Out-to-Recruiters)
     - [Conduct Informational Interviews](#Conduct-Informational-Interviews)
-
+  - [The Career Readiness Framework](#The-Career-Readiness-Framework)
+  - [References](#References)
 ---
 
 ## Purpose
@@ -46,7 +47,7 @@ Three core software used in Electronics Engineering are Python, C++, and MATLAB.
 - C++ is a critical part of embedded electronics and are used in almost all microcontrollers. It is the industry standard for electronics firmware across industries.
 - MATLAB is used in engineering simulation. Simulink provides graphical modeling of complex electronic systems while specialized toolboxes within MATLAB can be used for power electronics, control systems, and antenna design. 
 
-Your portfolio should document proficiency in some or all of these tools. [^1]
+Your portfolio should document proficiency in some or all of these skills.[^1]
 
 ### FPGA Digital Design
 Practicing on FPGA platforms is essential for students pursuing digital design. In mastering HDL for FPGAs, students learn to manage constraints such as gate timing, resource control, and hardware.
@@ -98,4 +99,4 @@ Conduct informational interviews with Electronics Engineers to network with indu
 
 ---
 ## References
-[^1] "O Net Online," 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2072.00. [Accessed 15th April 2026].
+[^1]: "O Net Online," 2026. [Online]. Available: https://www.onetonline.org/link/summary/17-2072.00. [Accessed 15th April 2026].
