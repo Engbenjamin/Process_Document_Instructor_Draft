@@ -31,7 +31,7 @@ If you are interested becoming an Electronics Engineer, you may have questions a
 ### Embedded Systems
 Embedded systems are ubitquitious with various domains from home electronics, aerospace, medical equipment and more. These courses will prepare you with the knowledge of software, firmware, and hardware elements and how these work together within the larger electrical system. 
 
-Take EE elective courses in embedded systems such as EE 333 Analog Embedded Systems, CSE 474 Introduction to Embedded Systems, or CSE 475 Embedded Systems Capstone.
+Take EE elective courses in embedded systems such as EE 333 Analog Embedded Systems or CSE 474 Introduction to Embedded Systems.
 
 ### Electrical Sensors
 A core part of any electronic system are the inputs. Courses covering electrical sensors will prepare students for implementing these in electronic devices. 
